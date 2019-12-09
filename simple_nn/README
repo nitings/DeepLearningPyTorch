@@ -1,2 +1,7 @@
+simple_nn.py:
 This is a very basic example of implementing a neural network using pytorch and calculating the loss and optimizing it.
-Inferencing and batch processing will be implemented in next sample.
+
+nn_train_pred.py:
+This example code demonstrates how to train and predict the csv datasets. Scikit libraries have been used for data processing and pytorch libraries has been used for training and predicting.
+
+Note: In next example will try to separate data processing, training and prediction into three different files to make it modular and put proper checks. The idea of this above two examples was to show the basic flow using pytorch.
