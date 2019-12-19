@@ -1,0 +1,2 @@
+This is a very basic example of implementing a neural network using pytorch and calculating the loss and optimizing it.
+Inferencing and batch processing will be implemented in next sample.
